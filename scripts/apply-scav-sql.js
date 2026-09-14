@@ -24,10 +24,10 @@ const ref = env.SUPABASE_PROJECT_REF;
 const sql = fs.readFileSync(sqlPath, "utf8");
 
 const candidates = [
+  `postgresql://postgres:${pass}@db.${ref}.supabase.co:5432/postgres`,
   `postgresql://postgres.${ref}:${pass}@aws-0-ca-central-1.pooler.supabase.com:6543/postgres`,
   `postgresql://postgres.${ref}:${pass}@aws-0-us-east-1.pooler.supabase.com:6543/postgres`,
   `postgresql://postgres.${ref}:${pass}@aws-0-us-west-1.pooler.supabase.com:6543/postgres`,
-  `postgresql://postgres:${pass}@db.${ref}.supabase.co:5432/postgres`,
 ];
 
 (async () => {

@@ -2,7 +2,7 @@
 -- Safe: only creates scav_* objects. Does not alter taxi tables.
 -- Run in Supabase SQL editor OR via scripts/apply-scav-sql.js
 
-create extension if not exists pgcrypto;
+create extension if not exists pgcrypto with schema extensions;
 
 create table if not exists public.scav_players (
   id uuid primary key default gen_random_uuid(),
@@ -43,7 +43,7 @@ create table if not exists public.scav_config (
 insert into public.scav_config (id, pin_hash, active_period, active_period_label, active_maps)
 values (
   1,
-  crypt('change-me-scav', gen_salt('bf')),
+  extensions.crypt('change-me-scav', extensions.gen_salt('bf')),
   to_char(now(), 'YYYY-MM'),
   to_char(now(), 'Mon YYYY'),
   array['Chernarus']::text[]
@@ -93,7 +93,7 @@ create or replace function public.scav_verify_pin(p_pin text)
 returns boolean
 language sql
 security definer
-set search_path = public
+set search_path = public, extensions
 as $$
   select exists (
     select 1 from public.scav_config
@@ -105,7 +105,7 @@ create or replace function public.scav_set_pin(p_old_pin text, p_new_pin text)
 returns json
 language plpgsql
 security definer
-set search_path = public
+set search_path = public, extensions
 as $$
 begin
   if not public.scav_verify_pin(p_old_pin) then
