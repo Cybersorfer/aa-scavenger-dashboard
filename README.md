@@ -35,7 +35,9 @@ node scripts\apply-scav-sql.js
 
 Or paste `docs/supabase-scav.sql` into the Supabase SQL editor.
 
-Until SQL is applied, the site runs in **seed mode** from `data/seed.json` (69 hunters / 195 map-completions from Discord shoutouts that name a map; Falkor XP ignored).
+Until SQL is applied, the site runs in **seed mode** from `data/seed.json`.
+
+**Scoring rule:** Falkor XP (≥100) confirms a hunter finished that month. Shoutouts before/after name the map(s). Extra maps in the same month count even without a second XP (one XP per month). Map names on the next message after Congrats are merged.
 
 ### 2. Set your staff PIN
 
