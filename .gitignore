@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.local
+# Keep config.js (anon key is public); never add service_role files:
+service_role*
+*-service-role*

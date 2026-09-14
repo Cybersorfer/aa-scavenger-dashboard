@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AA Scavenger Hunt</title>
+  <meta name="description" content="Apocalyptic Adventures scavenger hunt control board and leaderboard" />
+  <link rel="stylesheet" href="./css/app.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="hero">
+      <div class="eyebrow"><span id="modeDot" class="status-dot seed"></span><span id="modeLabel">Loading…</span></div>
+      <h1 id="heroTitle">AA Scavenger Hunt</h1>
+      <p class="subtitle" id="heroSub">Apocalyptic Adventures · control board</p>
+      <div class="stats">
+        <div class="stat"><strong id="statPlayers">—</strong><span>Hunters</span></div>
+        <div class="stat"><strong id="statCompletions">—</strong><span>Map completions</span></div>
+        <div class="stat"><strong id="statMonth">—</strong><span>Active month</span></div>
+      </div>
+    </header>
+
+    <div class="toolbar">
+      <input id="search" type="search" placeholder="Search hunter…" style="min-width:200px;flex:1" />
+      <select id="periodFilter"></select>
+      <button class="btn" id="btnStaff" type="button">Staff PIN</button>
+    </div>
+
+    <div class="chips" aria-label="Map filters">
+      <button class="chip active" data-map="All" type="button">All maps</button>
+      <button class="chip" data-map="Chernarus" type="button">Chernarus</button>
+      <button class="chip" data-map="Livonia" type="button">Livonia</button>
+      <button class="chip" data-map="Sakhal" type="button">Sakhal</button>
+      <button class="chip" data-map="Unknown" type="button">Unknown</button>
+    </div>
+
+    <section class="board" id="board" aria-live="polite"></section>
+
+    <section class="panel hidden" id="staffPanel">
+      <h3>Staff controls</h3>
+      <p class="hint">PIN stays in this session only. Writes go to Supabase when live.</p>
+      <div class="grid2" style="margin-top:12px">
+        <div class="stack">
+          <label class="hint">Quick add</label>
+          <input id="staffName" placeholder="Player name" />
+          <select id="staffPeriod"></select>
+          <select id="staffMap">
+            <option>Chernarus</option>
+            <option>Livonia</option>
+            <option>Sakhal</option>
+            <option>Unknown</option>
+          </select>
+          <button class="btn primary" id="btnAdd" type="button">Add completion</button>
+        </div>
+        <div class="stack">
+          <label class="hint">Discord import (paste shoutouts)</label>
+          <textarea id="importPaste" placeholder="Congratulations @Player&#10;Chernarus"></textarea>
+          <div class="preview" id="importPreview">Parse preview appears here.</div>
+          <div style="display:flex;gap:8px;flex-wrap:wrap">
+            <button class="btn" id="btnParse" type="button">Parse</button>
+            <button class="btn primary" id="btnImport" type="button">Import all</button>
+          </div>
+        </div>
+      </div>
+    </section>
+    <p class="hint" id="staffLocked" style="margin-top:18px">Unlock Staff PIN to add finishes or import Discord shoutouts.</p>
+  </div>
+
+  <div class="drawer-backdrop" id="drawerBackdrop"></div>
+  <aside class="drawer" id="drawer" aria-label="Hunter dossier">
+    <div style="display:flex;justify-content:space-between;gap:12px;align-items:start">
+      <div>
+        <h2 id="drawerTitle">Hunter</h2>
+        <p class="hint" id="drawerSub"></p>
+      </div>
+      <button class="btn ghost" id="drawerClose" type="button">Close</button>
+    </div>
+    <div class="timeline" id="drawerTimeline"></div>
+  </aside>
+
+  <div class="toast" id="toast" role="status"></div>
+
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="./config.js"></script>
+  <script src="./js/parse.js"></script>
+  <script src="./js/api.js"></script>
+  <script src="./js/app.js"></script>
+</body>
+</html>
