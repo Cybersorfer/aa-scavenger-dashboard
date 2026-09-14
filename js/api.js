@@ -118,11 +118,24 @@
     return data;
   }
 
+  async function setCompletionMap(pin, completionId, map) {
+    const sb = getClient();
+    if (!sb) return { ok: true, ephemeral: true, map };
+    const { data, error } = await sb.rpc("scav_set_completion_map", {
+      p_pin: pin,
+      p_completion_id: completionId,
+      p_map: map,
+    });
+    if (error) throw error;
+    return data;
+  }
+
   global.ScavApi = {
     loadBoard,
     verifyPin,
     addCompletion,
     removeCompletion,
+    setCompletionMap,
     getMode: () => mode,
     getClient,
   };

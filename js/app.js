@@ -149,17 +149,32 @@
     const comps = [...(player.completions || [])].sort((a, b) =>
       a.period === b.period ? a.map.localeCompare(b.map) : b.period.localeCompare(a.period)
     );
-    tl.innerHTML = comps.map((c) => `
+    tl.innerHTML = comps.map((c) => {
+      const canEdit =
+        state.staff && c.id && !String(c.id).startsWith("seed-");
+      const setMap =
+        canEdit
+          ? `<div class="staff-map-row" style="margin-top:8px;display:flex;gap:8px;flex-wrap:wrap;align-items:center">
+              <select data-setmap-id="${c.id}" aria-label="Set map">
+                <option value="">Set map…</option>
+                <option value="Chernarus"${c.map === "Chernarus" ? " selected" : ""}>Chernarus</option>
+                <option value="Livonia"${c.map === "Livonia" ? " selected" : ""}>Livonia</option>
+                <option value="Sakhal"${c.map === "Sakhal" ? " selected" : ""}>Sakhal</option>
+              </select>
+              <button class="btn primary" type="button" data-setmap="${c.id}">Save map</button>
+              <button class="btn danger" type="button" data-rm="${c.id}">Remove</button>
+            </div>`
+          : "";
+      return `
       <div class="tl-item">
         <div class="when">${escapeHtml(c.period_label || c.period)}</div>
         <div>
           <span class="pill ${c.map}">${escapeHtml(c.map)}</span>
           <div class="hint" style="margin-top:6px">${escapeHtml(c.source || "")}</div>
-          ${state.staff && c.id && !String(c.id).startsWith("seed-")
-            ? `<button class="btn danger" data-rm="${c.id}" style="margin-top:8px">Remove</button>`
-            : ""}
+          ${setMap}
         </div>
-      </div>`).join("") || `<p class="hint">No completions.</p>`;
+      </div>`;
+    }).join("") || `<p class="hint">No completions.</p>`;
     d.classList.add("open");
     b.classList.add("open");
   }
@@ -213,6 +228,24 @@
     $("#drawerClose").addEventListener("click", closeDossier);
     $("#drawerBackdrop").addEventListener("click", closeDossier);
     $("#drawerTimeline").addEventListener("click", async (e) => {
+      const setBtn = e.target.closest("[data-setmap]");
+      if (setBtn && state.staff) {
+        const id = setBtn.dataset.setmap;
+        const sel = $(`select[data-setmap-id="${id}"]`);
+        const map = sel && sel.value;
+        if (!map) return toast("Pick Chernarus, Livonia, or Sakhal");
+        try {
+          await ScavApi.setCompletionMap(state.pin, id, map);
+          toast(`Map set to ${map}`);
+          await refresh();
+          const p = state.players.find((x) => x.display_name === state.selected?.display_name);
+          if (p) openDossier(p);
+          else closeDossier();
+        } catch (err) {
+          toast(err.message || String(err));
+        }
+        return;
+      }
       const btn = e.target.closest("[data-rm]");
       if (!btn || !state.staff) return;
       try {
