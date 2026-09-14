@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "source": "discord_xp_confirmed_multimap_2026-09-14",
-  "note": "Falkor XP (>=100) confirms month; shoutouts name map(s); multi-map months count without second XP.",
+  "source": "discord_xp_confirmed_multimap_2026-09-14_cherno_le_aug2025",
+  "note": "Falkor XP (>=100) confirms month; shoutouts name map(s); multi-map months count without second XP. Unknowns on/before Aug 2025 default to Chernarus unless shout named another map.",
   "players": [
     {
       "display_name": "WhiskeyBent0803📚",
@@ -19,12 +19,12 @@
         {
           "period": "2025-07",
           "period_label": "Jul 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-08",
           "period_label": "Aug 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-09",
@@ -129,7 +129,7 @@
         {
           "period": "2025-01",
           "period_label": "Jan 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-02",
@@ -159,12 +159,12 @@
         {
           "period": "2025-07",
           "period_label": "Jul 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-08",
           "period_label": "Aug 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-09",
@@ -274,12 +274,12 @@
         {
           "period": "2025-07",
           "period_label": "Jul 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-08",
           "period_label": "Aug 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-09",
@@ -309,7 +309,7 @@
         {
           "period": "2025-03",
           "period_label": "Mar 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-05",
@@ -424,12 +424,12 @@
         {
           "period": "2025-07",
           "period_label": "Jul 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-08",
           "period_label": "Aug 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-09",
@@ -489,12 +489,12 @@
         {
           "period": "2025-07",
           "period_label": "Jul 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-08",
           "period_label": "Aug 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-09",
@@ -524,12 +524,12 @@
         {
           "period": "2025-07",
           "period_label": "Jul 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-08",
           "period_label": "Aug 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-09",
@@ -614,7 +614,7 @@
         {
           "period": "2025-07",
           "period_label": "Jul 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-09",
@@ -774,12 +774,12 @@
         {
           "period": "2025-07",
           "period_label": "Jul 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-08",
           "period_label": "Aug 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-09",
@@ -824,7 +824,7 @@
         {
           "period": "2025-07",
           "period_label": "Jul 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-09",
@@ -994,12 +994,12 @@
         {
           "period": "2025-07",
           "period_label": "Jul 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-08",
           "period_label": "Aug 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-09",
@@ -1029,12 +1029,12 @@
         {
           "period": "2025-07",
           "period_label": "Jul 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-08",
           "period_label": "Aug 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-11",
@@ -1144,12 +1144,12 @@
         {
           "period": "2025-07",
           "period_label": "Jul 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-08",
           "period_label": "Aug 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-09",
@@ -1364,7 +1364,7 @@
         {
           "period": "2025-01",
           "period_label": "Jan 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-02",
@@ -1504,7 +1504,7 @@
         {
           "period": "2025-04",
           "period_label": "Apr 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-05",
@@ -1689,7 +1689,7 @@
         {
           "period": "2025-07",
           "period_label": "Jul 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         }
       ]
     },
@@ -1849,7 +1849,7 @@
         {
           "period": "2025-01",
           "period_label": "Jan 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-02",
@@ -1894,7 +1894,7 @@
         {
           "period": "2025-08",
           "period_label": "Aug 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-09",
@@ -1909,7 +1909,7 @@
         {
           "period": "2025-01",
           "period_label": "Jan 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
           "period": "2025-02",
@@ -1994,7 +1994,7 @@
         {
           "period": "2025-01",
           "period_label": "Jan 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         }
       ]
     },
@@ -2004,7 +2004,7 @@
         {
           "period": "2025-01",
           "period_label": "Jan 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         }
       ]
     },
@@ -2104,7 +2104,7 @@
         {
           "period": "2025-01",
           "period_label": "Jan 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         }
       ]
     },
@@ -2124,7 +2124,7 @@
         {
           "period": "2025-07",
           "period_label": "Jul 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         }
       ]
     },
@@ -2194,7 +2194,7 @@
         {
           "period": "2025-08",
           "period_label": "Aug 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         }
       ]
     },
@@ -2234,7 +2234,7 @@
         {
           "period": "2025-01",
           "period_label": "Jan 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         }
       ]
     },
@@ -2244,7 +2244,7 @@
         {
           "period": "2025-08",
           "period_label": "Aug 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         }
       ]
     },
