@@ -35,7 +35,7 @@ node scripts\apply-scav-sql.js
 
 Or paste `docs/supabase-scav.sql` into the Supabase SQL editor.
 
-Until SQL is applied, the site runs in **seed mode** from `data/seed.json` (106 hunters / 358 map-completions).
+Until SQL is applied, the site runs in **seed mode** from `data/seed.json` (69 hunters / 195 map-completions from Discord shoutouts that name a map; Falkor XP ignored).
 
 ### 2. Set your staff PIN
 

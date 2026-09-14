@@ -1,35 +1,10 @@
 {
   "version": 1,
-  "source": "discord_scan_per_map_2026-09-14",
+  "source": "discord_scan_per_map_shoutouts_only_2026-09-14",
   "players": [
     {
       "display_name": "WhiskeyBent0803📚",
       "completions": [
-        {
-          "period": "2025-05",
-          "period_label": "May 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-06",
-          "period_label": "Jun 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-07",
-          "period_label": "Jul 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-08",
-          "period_label": "Aug 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        },
         {
           "period": "2025-10",
           "period_label": "Oct 2025",
@@ -114,57 +89,12 @@
           "period": "2026-08",
           "period_label": "Aug 2026",
           "map": "Chernarus"
-        },
-        {
-          "period": "2026-09",
-          "period_label": "Sep 2026",
-          "map": "Unknown"
         }
       ]
     },
     {
       "display_name": "cybersorfer🪆📚",
       "completions": [
-        {
-          "period": "2025-01",
-          "period_label": "Jan 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-02",
-          "period_label": "Feb 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-03",
-          "period_label": "Mar 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-04",
-          "period_label": "Apr 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-05",
-          "period_label": "May 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-06",
-          "period_label": "Jun 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-07",
-          "period_label": "Jul 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-08",
-          "period_label": "Aug 2025",
-          "map": "Unknown"
-        },
         {
           "period": "2025-09",
           "period_label": "Sep 2025",
@@ -219,87 +149,12 @@
           "period": "2026-07",
           "period_label": "Jul 2026",
           "map": "Chernarus"
-        },
-        {
-          "period": "2026-08",
-          "period_label": "Aug 2026",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "E1NAl3D-420 📕📘",
-      "completions": [
-        {
-          "period": "2025-02",
-          "period_label": "Feb 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-03",
-          "period_label": "Mar 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-04",
-          "period_label": "Apr 2025",
-          "map": "Sakhal"
-        },
-        {
-          "period": "2025-05",
-          "period_label": "May 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-06",
-          "period_label": "Jun 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-07",
-          "period_label": "Jul 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-08",
-          "period_label": "Aug 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-12",
-          "period_label": "Dec 2025",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2026-01",
-          "period_label": "Jan 2026",
-          "map": "Unknown"
-        },
-        {
-          "period": "2026-02",
-          "period_label": "Feb 2026",
-          "map": "Chernarus"
         }
       ]
     },
     {
       "display_name": "FireStorm72📘📗",
       "completions": [
-        {
-          "period": "2025-03",
-          "period_label": "Mar 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-05",
-          "period_label": "May 2025",
-          "map": "Unknown"
-        },
         {
           "period": "2025-12",
           "period_label": "Dec 2025",
@@ -351,11 +206,6 @@
       "display_name": "CAPTTipsyPants📕",
       "completions": [
         {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        },
-        {
           "period": "2025-11",
           "period_label": "Nov 2025",
           "map": "Chernarus"
@@ -364,11 +214,6 @@
           "period": "2025-12",
           "period_label": "Dec 2025",
           "map": "Chernarus"
-        },
-        {
-          "period": "2026-01",
-          "period_label": "Jan 2026",
-          "map": "Unknown"
         },
         {
           "period": "2026-02",
@@ -389,212 +234,12 @@
           "period": "2026-07",
           "period_label": "Jul 2026",
           "map": "Chernarus"
-        },
-        {
-          "period": "2026-08",
-          "period_label": "Aug 2026",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "TheJokerX28📕",
-      "completions": [
-        {
-          "period": "2025-06",
-          "period_label": "Jun 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-07",
-          "period_label": "Jul 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-08",
-          "period_label": "Aug 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-10",
-          "period_label": "Oct 2025",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2025-10",
-          "period_label": "Oct 2025",
-          "map": "Livonia"
-        },
-        {
-          "period": "2025-10",
-          "period_label": "Oct 2025",
-          "map": "Sakhal"
-        },
-        {
-          "period": "2025-11",
-          "period_label": "Nov 2025",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2025-12",
-          "period_label": "Dec 2025",
-          "map": "Chernarus"
-        }
-      ]
-    },
-    {
-      "display_name": "wary_vapour2📕",
-      "completions": [
-        {
-          "period": "2025-03",
-          "period_label": "Mar 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-04",
-          "period_label": "Apr 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-05",
-          "period_label": "May 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-06",
-          "period_label": "Jun 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-07",
-          "period_label": "Jul 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-08",
-          "period_label": "Aug 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-10",
-          "period_label": "Oct 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-11",
-          "period_label": "Nov 2025",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "SGT_PSYCHOPATH📕",
-      "completions": [
-        {
-          "period": "2025-06",
-          "period_label": "Jun 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-07",
-          "period_label": "Jul 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-08",
-          "period_label": "Aug 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-10",
-          "period_label": "Oct 2025",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2025-11",
-          "period_label": "Nov 2025",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2025-12",
-          "period_label": "Dec 2025",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2026-01",
-          "period_label": "Jan 2026",
-          "map": "Chernarus"
-        }
-      ]
-    },
-    {
-      "display_name": "Tookie670",
-      "completions": [
-        {
-          "period": "2025-03",
-          "period_label": "Mar 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-04",
-          "period_label": "Apr 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-05",
-          "period_label": "May 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-06",
-          "period_label": "Jun 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-07",
-          "period_label": "Jul 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-11",
-          "period_label": "Nov 2025",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2026-01",
-          "period_label": "Jan 2026",
-          "map": "Chernarus"
         }
       ]
     },
     {
       "display_name": "cephasdagreat",
       "completions": [
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        },
         {
           "period": "2025-10",
           "period_label": "Oct 2025",
@@ -628,97 +273,12 @@
       ]
     },
     {
-      "display_name": "Devest-Eight📕",
-      "completions": [
-        {
-          "period": "2025-05",
-          "period_label": "May 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-06",
-          "period_label": "Jun 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-07",
-          "period_label": "Jul 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-10",
-          "period_label": "Oct 2025",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2025-11",
-          "period_label": "Nov 2025",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2025-12",
-          "period_label": "Dec 2025",
-          "map": "Chernarus"
-        }
-      ]
-    },
-    {
-      "display_name": "ItsDrew2uOU812📕📘",
-      "completions": [
-        {
-          "period": "2025-04",
-          "period_label": "Apr 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-05",
-          "period_label": "May 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-10",
-          "period_label": "Oct 2025",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2025-11",
-          "period_label": "Nov 2025",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2026-01",
-          "period_label": "Jan 2026",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2026-01",
-          "period_label": "Jan 2026",
-          "map": "Sakhal"
-        }
-      ]
-    },
-    {
       "display_name": "LGDlaurenvearn92",
       "completions": [
         {
           "period": "2025-12",
           "period_label": "Dec 2025",
           "map": "Sakhal"
-        },
-        {
-          "period": "2026-01",
-          "period_label": "Jan 2026",
-          "map": "Unknown"
         },
         {
           "period": "2026-02",
@@ -748,168 +308,8 @@
       ]
     },
     {
-      "display_name": "Lily_ofthe_Incas",
-      "completions": [
-        {
-          "period": "2025-01",
-          "period_label": "Jan 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-02",
-          "period_label": "Feb 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-03",
-          "period_label": "Mar 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-05",
-          "period_label": "May 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-06",
-          "period_label": "Jun 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-12",
-          "period_label": "Dec 2025",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2026-01",
-          "period_label": "Jan 2026",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "Palombe34",
-      "completions": [
-        {
-          "period": "2025-05",
-          "period_label": "May 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-06",
-          "period_label": "Jun 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-07",
-          "period_label": "Jul 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-08",
-          "period_label": "Aug 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-10",
-          "period_label": "Oct 2025",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2025-11",
-          "period_label": "Nov 2025",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "the_possum_king📕",
-      "completions": [
-        {
-          "period": "2025-05",
-          "period_label": "May 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-06",
-          "period_label": "Jun 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-07",
-          "period_label": "Jul 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-08",
-          "period_label": "Aug 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-10",
-          "period_label": "Oct 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-11",
-          "period_label": "Nov 2025",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2025-12",
-          "period_label": "Dec 2025",
-          "map": "Chernarus"
-        }
-      ]
-    },
-    {
-      "display_name": "Automatic--_0_--🪆📕",
-      "completions": [
-        {
-          "period": "2025-12",
-          "period_label": "Dec 2025",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2026-01",
-          "period_label": "Jan 2026",
-          "map": "Unknown"
-        },
-        {
-          "period": "2026-02",
-          "period_label": "Feb 2026",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2026-03",
-          "period_label": "Mar 2026",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2026-05",
-          "period_label": "May 2026",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2026-06",
-          "period_label": "Jun 2026",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
       "display_name": "big_fella_jim📕",
       "completions": [
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        },
         {
           "period": "2025-10",
           "period_label": "Oct 2025",
@@ -941,11 +341,6 @@
       "display_name": "El_Soup_Dragon",
       "completions": [
         {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        },
-        {
           "period": "2025-10",
           "period_label": "Oct 2025",
           "map": "Livonia"
@@ -976,11 +371,6 @@
       "display_name": "gunguy1720📕📘",
       "completions": [
         {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        },
-        {
           "period": "2025-10",
           "period_label": "Oct 2025",
           "map": "Chernarus"
@@ -1004,161 +394,6 @@
           "period": "2026-05",
           "period_label": "May 2026",
           "map": "Sakhal"
-        }
-      ]
-    },
-    {
-      "display_name": "OMG-ITS-DAN-21📕",
-      "completions": [
-        {
-          "period": "2025-05",
-          "period_label": "May 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-06",
-          "period_label": "Jun 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-07",
-          "period_label": "Jul 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-08",
-          "period_label": "Aug 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-10",
-          "period_label": "Oct 2025",
-          "map": "Chernarus"
-        }
-      ]
-    },
-    {
-      "display_name": "BeautyKills",
-      "completions": [
-        {
-          "period": "2025-12",
-          "period_label": "Dec 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2026-01",
-          "period_label": "Jan 2026",
-          "map": "Unknown"
-        },
-        {
-          "period": "2026-02",
-          "period_label": "Feb 2026",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2026-05",
-          "period_label": "May 2026",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2026-06",
-          "period_label": "Jun 2026",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "Camel-JockeyGMA 📕",
-      "completions": [
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2026-05",
-          "period_label": "May 2026",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2026-07",
-          "period_label": "Jul 2026",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2026-08",
-          "period_label": "Aug 2026",
-          "map": "Unknown"
-        },
-        {
-          "period": "2026-09",
-          "period_label": "Sep 2026",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "Chrissy22729_",
-      "completions": [
-        {
-          "period": "2026-02",
-          "period_label": "Feb 2026",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2026-03",
-          "period_label": "Mar 2026",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2026-05",
-          "period_label": "May 2026",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2026-06",
-          "period_label": "Jun 2026",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2026-08",
-          "period_label": "Aug 2026",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "Dirt 🔱™",
-      "completions": [
-        {
-          "period": "2025-07",
-          "period_label": "Jul 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-08",
-          "period_label": "Aug 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-10",
-          "period_label": "Oct 2025",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2025-11",
-          "period_label": "Nov 2025",
-          "map": "Chernarus"
         }
       ]
     },
@@ -1188,36 +423,6 @@
         {
           "period": "2026-06",
           "period_label": "Jun 2026",
-          "map": "Sakhal"
-        }
-      ]
-    },
-    {
-      "display_name": "Major Kusanagi the Cat",
-      "completions": [
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-10",
-          "period_label": "Oct 2025",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2025-11",
-          "period_label": "Nov 2025",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2025-12",
-          "period_label": "Dec 2025",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2026-01",
-          "period_label": "Jan 2026",
           "map": "Sakhal"
         }
       ]
@@ -1253,16 +458,71 @@
       ]
     },
     {
-      "display_name": "Bothozar",
+      "display_name": "TheJokerX28📕",
       "completions": [
         {
-          "period": "2025-05",
-          "period_label": "May 2025",
-          "map": "Unknown"
+          "period": "2025-10",
+          "period_label": "Oct 2025",
+          "map": "Chernarus"
+        },
+        {
+          "period": "2025-10",
+          "period_label": "Oct 2025",
+          "map": "Livonia"
+        },
+        {
+          "period": "2025-10",
+          "period_label": "Oct 2025",
+          "map": "Sakhal"
+        },
+        {
+          "period": "2025-11",
+          "period_label": "Nov 2025",
+          "map": "Chernarus"
+        },
+        {
+          "period": "2025-12",
+          "period_label": "Dec 2025",
+          "map": "Chernarus"
+        }
+      ]
+    },
+    {
+      "display_name": "Automatic--_0_--🪆📕",
+      "completions": [
+        {
+          "period": "2025-12",
+          "period_label": "Dec 2025",
+          "map": "Chernarus"
         },
         {
           "period": "2026-02",
           "period_label": "Feb 2026",
+          "map": "Chernarus"
+        },
+        {
+          "period": "2026-03",
+          "period_label": "Mar 2026",
+          "map": "Chernarus"
+        },
+        {
+          "period": "2026-05",
+          "period_label": "May 2026",
+          "map": "Chernarus"
+        }
+      ]
+    },
+    {
+      "display_name": "Chrissy22729_",
+      "completions": [
+        {
+          "period": "2026-02",
+          "period_label": "Feb 2026",
+          "map": "Chernarus"
+        },
+        {
+          "period": "2026-03",
+          "period_label": "Mar 2026",
           "map": "Chernarus"
         },
         {
@@ -1273,7 +533,7 @@
         {
           "period": "2026-06",
           "period_label": "Jun 2026",
-          "map": "Livonia"
+          "map": "Chernarus"
         }
       ]
     },
@@ -1303,8 +563,68 @@
       ]
     },
     {
-      "display_name": "Killa_Princess39📕",
+      "display_name": "ItsDrew2uOU812📕📘",
       "completions": [
+        {
+          "period": "2025-10",
+          "period_label": "Oct 2025",
+          "map": "Chernarus"
+        },
+        {
+          "period": "2025-11",
+          "period_label": "Nov 2025",
+          "map": "Chernarus"
+        },
+        {
+          "period": "2026-01",
+          "period_label": "Jan 2026",
+          "map": "Chernarus"
+        },
+        {
+          "period": "2026-01",
+          "period_label": "Jan 2026",
+          "map": "Sakhal"
+        }
+      ]
+    },
+    {
+      "display_name": "Major Kusanagi the Cat",
+      "completions": [
+        {
+          "period": "2025-10",
+          "period_label": "Oct 2025",
+          "map": "Chernarus"
+        },
+        {
+          "period": "2025-11",
+          "period_label": "Nov 2025",
+          "map": "Chernarus"
+        },
+        {
+          "period": "2025-12",
+          "period_label": "Dec 2025",
+          "map": "Chernarus"
+        },
+        {
+          "period": "2026-01",
+          "period_label": "Jan 2026",
+          "map": "Sakhal"
+        }
+      ]
+    },
+    {
+      "display_name": "SGT_PSYCHOPATH📕",
+      "completions": [
+        {
+          "period": "2025-10",
+          "period_label": "Oct 2025",
+          "map": "Chernarus"
+        },
+        {
+          "period": "2025-11",
+          "period_label": "Nov 2025",
+          "map": "Chernarus"
+        },
         {
           "period": "2025-12",
           "period_label": "Dec 2025",
@@ -1314,81 +634,26 @@
           "period": "2026-01",
           "period_label": "Jan 2026",
           "map": "Chernarus"
-        },
+        }
+      ]
+    },
+    {
+      "display_name": "Bothozar",
+      "completions": [
         {
           "period": "2026-02",
           "period_label": "Feb 2026",
           "map": "Chernarus"
         },
         {
-          "period": "2026-04",
-          "period_label": "Apr 2026",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "RespawnBarbie7",
-      "completions": [
+          "period": "2026-05",
+          "period_label": "May 2026",
+          "map": "Chernarus"
+        },
         {
           "period": "2026-06",
           "period_label": "Jun 2026",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2026-07",
-          "period_label": "Jul 2026",
-          "map": "Unknown"
-        },
-        {
-          "period": "2026-08",
-          "period_label": "Aug 2026",
-          "map": "Unknown"
-        },
-        {
-          "period": "2026-09",
-          "period_label": "Sep 2026",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "ButchrOfTheVault",
-      "completions": [
-        {
-          "period": "2025-01",
-          "period_label": "Jan 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-02",
-          "period_label": "Feb 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-03",
-          "period_label": "Mar 2025",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "CoachCris",
-      "completions": [
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-12",
-          "period_label": "Dec 2025",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2026-02",
-          "period_label": "Feb 2026",
-          "map": "Chernarus"
+          "map": "Livonia"
         }
       ]
     },
@@ -1433,67 +698,7 @@
       ]
     },
     {
-      "display_name": "deleted_user_44d37e73c87d",
-      "completions": [
-        {
-          "period": "2025-12",
-          "period_label": "Dec 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2026-01",
-          "period_label": "Jan 2026",
-          "map": "Unknown"
-        },
-        {
-          "period": "2026-02",
-          "period_label": "Feb 2026",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "doublebarrel5g",
-      "completions": [
-        {
-          "period": "2026-03",
-          "period_label": "Mar 2026",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2026-05",
-          "period_label": "May 2026",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2026-07",
-          "period_label": "Jul 2026",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "Grim_Skully📕",
-      "completions": [
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-10",
-          "period_label": "Oct 2025",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2025-12",
-          "period_label": "Dec 2025",
-          "map": "Chernarus"
-        }
-      ]
-    },
-    {
-      "display_name": "nadinemk3",
+      "display_name": "Devest-Eight📕",
       "completions": [
         {
           "period": "2025-10",
@@ -1503,32 +708,52 @@
         {
           "period": "2025-11",
           "period_label": "Nov 2025",
-          "map": "Unknown"
+          "map": "Chernarus"
         },
         {
-          "period": "2026-01",
-          "period_label": "Jan 2026",
+          "period": "2025-12",
+          "period_label": "Dec 2025",
           "map": "Chernarus"
         }
       ]
     },
     {
-      "display_name": "Step_daddy-420",
+      "display_name": "E1NAl3D-420 📕📘",
       "completions": [
         {
           "period": "2025-04",
           "period_label": "Apr 2025",
-          "map": "Unknown"
+          "map": "Sakhal"
         },
         {
-          "period": "2025-05",
-          "period_label": "May 2025",
-          "map": "Unknown"
+          "period": "2025-12",
+          "period_label": "Dec 2025",
+          "map": "Chernarus"
         },
         {
-          "period": "2025-06",
-          "period_label": "Jun 2025",
-          "map": "Unknown"
+          "period": "2026-02",
+          "period_label": "Feb 2026",
+          "map": "Chernarus"
+        }
+      ]
+    },
+    {
+      "display_name": "Killa_Princess39📕",
+      "completions": [
+        {
+          "period": "2025-12",
+          "period_label": "Dec 2025",
+          "map": "Chernarus"
+        },
+        {
+          "period": "2026-01",
+          "period_label": "Jan 2026",
+          "map": "Chernarus"
+        },
+        {
+          "period": "2026-02",
+          "period_label": "Feb 2026",
+          "map": "Chernarus"
         }
       ]
     },
@@ -1553,37 +778,17 @@
       ]
     },
     {
-      "display_name": "𝕼𝖚𝖎𝖓𝖙𝖊𝖓™🫆",
+      "display_name": "BeautyKills",
       "completions": [
         {
-          "period": "2025-12",
-          "period_label": "Dec 2025",
+          "period": "2026-02",
+          "period_label": "Feb 2026",
           "map": "Chernarus"
         },
         {
           "period": "2026-05",
           "period_label": "May 2026",
           "map": "Chernarus"
-        },
-        {
-          "period": "2026-06",
-          "period_label": "Jun 2026",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "Bearmunger📕",
-      "completions": [
-        {
-          "period": "2025-05",
-          "period_label": "May 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-06",
-          "period_label": "Jun 2025",
-          "map": "Unknown"
         }
       ]
     },
@@ -1618,21 +823,6 @@
       ]
     },
     {
-      "display_name": "Brixton-Junior",
-      "completions": [
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-11",
-          "period_label": "Nov 2025",
-          "map": "Chernarus"
-        }
-      ]
-    },
-    {
       "display_name": "BurnDaddY219",
       "completions": [
         {
@@ -1648,17 +838,32 @@
       ]
     },
     {
-      "display_name": "CaptnHowdy-777",
+      "display_name": "Camel-JockeyGMA 📕",
       "completions": [
         {
-          "period": "2026-01",
-          "period_label": "Jan 2026",
+          "period": "2026-05",
+          "period_label": "May 2026",
+          "map": "Chernarus"
+        },
+        {
+          "period": "2026-07",
+          "period_label": "Jul 2026",
+          "map": "Chernarus"
+        }
+      ]
+    },
+    {
+      "display_name": "CoachCris",
+      "completions": [
+        {
+          "period": "2025-12",
+          "period_label": "Dec 2025",
           "map": "Chernarus"
         },
         {
           "period": "2026-02",
           "period_label": "Feb 2026",
-          "map": "Unknown"
+          "map": "Chernarus"
         }
       ]
     },
@@ -1673,6 +878,36 @@
         {
           "period": "2026-02",
           "period_label": "Feb 2026",
+          "map": "Chernarus"
+        }
+      ]
+    },
+    {
+      "display_name": "Dirt 🔱™",
+      "completions": [
+        {
+          "period": "2025-10",
+          "period_label": "Oct 2025",
+          "map": "Chernarus"
+        },
+        {
+          "period": "2025-11",
+          "period_label": "Nov 2025",
+          "map": "Chernarus"
+        }
+      ]
+    },
+    {
+      "display_name": "doublebarrel5g",
+      "completions": [
+        {
+          "period": "2026-03",
+          "period_label": "Mar 2026",
+          "map": "Chernarus"
+        },
+        {
+          "period": "2026-05",
+          "period_label": "May 2026",
           "map": "Chernarus"
         }
       ]
@@ -1693,46 +928,16 @@
       ]
     },
     {
-      "display_name": "Goonee",
+      "display_name": "Grim_Skully📕",
       "completions": [
-        {
-          "period": "2025-06",
-          "period_label": "Jun 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-07",
-          "period_label": "Jul 2025",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "Gromph_DoUrden",
-      "completions": [
-        {
-          "period": "2025-03",
-          "period_label": "Mar 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2026-06",
-          "period_label": "Jun 2026",
-          "map": "Chernarus"
-        }
-      ]
-    },
-    {
-      "display_name": "guerrier28",
-      "completions": [
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        },
         {
           "period": "2025-10",
           "period_label": "Oct 2025",
+          "map": "Chernarus"
+        },
+        {
+          "period": "2025-12",
+          "period_label": "Dec 2025",
           "map": "Chernarus"
         }
       ]
@@ -1749,21 +954,6 @@
           "period": "2026-01",
           "period_label": "Jan 2026",
           "map": "Chernarus"
-        }
-      ]
-    },
-    {
-      "display_name": "LEAFY1598 📕",
-      "completions": [
-        {
-          "period": "2025-11",
-          "period_label": "Nov 2025",
-          "map": "Chernarus"
-        },
-        {
-          "period": "2026-01",
-          "period_label": "Jan 2026",
-          "map": "Unknown"
         }
       ]
     },
@@ -1813,11 +1003,11 @@
       ]
     },
     {
-      "display_name": "Princess_Brat95",
+      "display_name": "nadinemk3",
       "completions": [
         {
-          "period": "2025-12",
-          "period_label": "Dec 2025",
+          "period": "2025-10",
+          "period_label": "Oct 2025",
           "map": "Chernarus"
         },
         {
@@ -1828,16 +1018,16 @@
       ]
     },
     {
-      "display_name": "Shawty-UK",
+      "display_name": "Princess_Brat95",
       "completions": [
         {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
+          "period": "2025-12",
+          "period_label": "Dec 2025",
+          "map": "Chernarus"
         },
         {
-          "period": "2025-10",
-          "period_label": "Oct 2025",
+          "period": "2026-01",
+          "period_label": "Jan 2026",
           "map": "Chernarus"
         }
       ]
@@ -1858,27 +1048,27 @@
       ]
     },
     {
-      "display_name": "Stahl_Ulfhednar",
+      "display_name": "the_possum_king📕",
       "completions": [
         {
-          "period": "2025-01",
-          "period_label": "Jan 2025",
-          "map": "Unknown"
+          "period": "2025-11",
+          "period_label": "Nov 2025",
+          "map": "Chernarus"
         },
         {
-          "period": "2025-02",
-          "period_label": "Feb 2025",
-          "map": "Unknown"
+          "period": "2025-12",
+          "period_label": "Dec 2025",
+          "map": "Chernarus"
         }
       ]
     },
     {
-      "display_name": "thegreatthumper2",
+      "display_name": "Tookie670",
       "completions": [
         {
-          "period": "2025-12",
-          "period_label": "Dec 2025",
-          "map": "Unknown"
+          "period": "2025-11",
+          "period_label": "Nov 2025",
+          "map": "Chernarus"
         },
         {
           "period": "2026-01",
@@ -1888,47 +1078,17 @@
       ]
     },
     {
-      "display_name": "TrapTyree📕",
+      "display_name": "𝕼𝖚𝖎𝖓𝖙𝖊𝖓™🫆",
       "completions": [
         {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
+          "period": "2025-12",
+          "period_label": "Dec 2025",
+          "map": "Chernarus"
         },
         {
           "period": "2026-05",
           "period_label": "May 2026",
           "map": "Chernarus"
-        }
-      ]
-    },
-    {
-      "display_name": "Wigglez 🐥🦆",
-      "completions": [
-        {
-          "period": "2025-08",
-          "period_label": "Aug 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "XKingAsesinoX",
-      "completions": [
-        {
-          "period": "2025-01",
-          "period_label": "Jan 2025",
-          "map": "Unknown"
-        },
-        {
-          "period": "2025-02",
-          "period_label": "Feb 2025",
-          "map": "Unknown"
         }
       ]
     },
@@ -1943,122 +1103,22 @@
       ]
     },
     {
-      "display_name": "Az4rah-34",
+      "display_name": "Brixton-Junior",
       "completions": [
         {
-          "period": "2025-06",
-          "period_label": "Jun 2025",
-          "map": "Unknown"
+          "period": "2025-11",
+          "period_label": "Nov 2025",
+          "map": "Chernarus"
         }
       ]
     },
     {
-      "display_name": "BadassLP",
+      "display_name": "CaptnHowdy-777",
       "completions": [
         {
-          "period": "2025-03",
-          "period_label": "Mar 2025",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "BartBum",
-      "completions": [
-        {
-          "period": "2026-08",
-          "period_label": "Aug 2026",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "bigdaddyatkins99",
-      "completions": [
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "ChoppersHatt",
-      "completions": [
-        {
-          "period": "2025-02",
-          "period_label": "Feb 2025",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "class-a-austin",
-      "completions": [
-        {
-          "period": "2025-10",
-          "period_label": "Oct 2025",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "DaDankBurna",
-      "completions": [
-        {
-          "period": "2025-01",
-          "period_label": "Jan 2025",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "Dan_Footy_92",
-      "completions": [
-        {
-          "period": "2025-01",
-          "period_label": "Jan 2025",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "deleted_user_9bdfd0252843",
-      "completions": [
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "DingalingJim",
-      "completions": [
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "Dragon_Eclipse-",
-      "completions": [
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "florian_flow",
-      "completions": [
-        {
-          "period": "2025-03",
-          "period_label": "Mar 2025",
-          "map": "Unknown"
+          "period": "2026-01",
+          "period_label": "Jan 2026",
+          "map": "Chernarus"
         }
       ]
     },
@@ -2073,12 +1133,12 @@
       ]
     },
     {
-      "display_name": "GiftedUnicorn-",
+      "display_name": "Gromph_DoUrden",
       "completions": [
         {
-          "period": "2025-03",
-          "period_label": "Mar 2025",
-          "map": "Unknown"
+          "period": "2026-06",
+          "period_label": "Jun 2026",
+          "map": "Chernarus"
         }
       ]
     },
@@ -2088,6 +1148,16 @@
         {
           "period": "2026-06",
           "period_label": "Jun 2026",
+          "map": "Chernarus"
+        }
+      ]
+    },
+    {
+      "display_name": "guerrier28",
+      "completions": [
+        {
+          "period": "2025-10",
+          "period_label": "Oct 2025",
           "map": "Chernarus"
         }
       ]
@@ -2113,62 +1183,22 @@
       ]
     },
     {
-      "display_name": "IronSteel-_-",
+      "display_name": "LEAFY1598 📕",
       "completions": [
         {
-          "period": "2025-01",
-          "period_label": "Jan 2025",
-          "map": "Unknown"
+          "period": "2025-11",
+          "period_label": "Nov 2025",
+          "map": "Chernarus"
         }
       ]
     },
     {
-      "display_name": "Khalid",
+      "display_name": "Lily_ofthe_Incas",
       "completions": [
         {
-          "period": "2025-05",
-          "period_label": "May 2025",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "lI-DECA-Il",
-      "completions": [
-        {
-          "period": "2025-07",
-          "period_label": "Jul 2025",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "miss.shimmer",
-      "completions": [
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "Morgan freewoman",
-      "completions": [
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "Mrs_DustyJones",
-      "completions": [
-        {
-          "period": "2026-01",
-          "period_label": "Jan 2026",
-          "map": "Unknown"
+          "period": "2025-12",
+          "period_label": "Dec 2025",
+          "map": "Chernarus"
         }
       ]
     },
@@ -2183,16 +1213,6 @@
       ]
     },
     {
-      "display_name": "Nickjm",
-      "completions": [
-        {
-          "period": "2025-06",
-          "period_label": "Jun 2025",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
       "display_name": "Nuka_Man_PVP",
       "completions": [
         {
@@ -2203,12 +1223,12 @@
       ]
     },
     {
-      "display_name": "OutroDrift",
+      "display_name": "OMG-ITS-DAN-21📕",
       "completions": [
         {
-          "period": "2025-08",
-          "period_label": "Aug 2025",
-          "map": "Unknown"
+          "period": "2025-10",
+          "period_label": "Oct 2025",
+          "map": "Chernarus"
         }
       ]
     },
@@ -2223,12 +1243,12 @@
       ]
     },
     {
-      "display_name": "Psycho_Delic13📕",
+      "display_name": "Palombe34",
       "completions": [
         {
-          "period": "2025-05",
-          "period_label": "May 2025",
-          "map": "Unknown"
+          "period": "2025-10",
+          "period_label": "Oct 2025",
+          "map": "Chernarus"
         }
       ]
     },
@@ -2243,32 +1263,42 @@
       ]
     },
     {
-      "display_name": "Robingdhood📕",
+      "display_name": "RespawnBarbie7",
       "completions": [
         {
-          "period": "2025-01",
-          "period_label": "Jan 2025",
-          "map": "Unknown"
+          "period": "2026-06",
+          "period_label": "Jun 2026",
+          "map": "Chernarus"
         }
       ]
     },
     {
-      "display_name": "The Poot",
+      "display_name": "Shawty-UK",
       "completions": [
         {
-          "period": "2025-08",
-          "period_label": "Aug 2025",
-          "map": "Unknown"
+          "period": "2025-10",
+          "period_label": "Oct 2025",
+          "map": "Chernarus"
         }
       ]
     },
     {
-      "display_name": "ttv-reward764tam📕",
+      "display_name": "thegreatthumper2",
       "completions": [
         {
-          "period": "2025-06",
-          "period_label": "Jun 2025",
-          "map": "Unknown"
+          "period": "2026-01",
+          "period_label": "Jan 2026",
+          "map": "Chernarus"
+        }
+      ]
+    },
+    {
+      "display_name": "TrapTyree📕",
+      "completions": [
+        {
+          "period": "2026-05",
+          "period_label": "May 2026",
+          "map": "Chernarus"
         }
       ]
     },
@@ -2283,26 +1313,6 @@
       ]
     },
     {
-      "display_name": "Zig",
-      "completions": [
-        {
-          "period": "2025-06",
-          "period_label": "Jun 2025",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
-      "display_name": "zTragedys-",
-      "completions": [
-        {
-          "period": "2025-09",
-          "period_label": "Sep 2025",
-          "map": "Unknown"
-        }
-      ]
-    },
-    {
       "display_name": "Zumbie_Slayer9",
       "completions": [
         {
@@ -2311,16 +1321,7 @@
           "map": "Chernarus"
         }
       ]
-    },
-    {
-      "display_name": "𐐪dollslut♡.°",
-      "completions": [
-        {
-          "period": "2025-05",
-          "period_label": "May 2025",
-          "map": "Unknown"
-        }
-      ]
     }
-  ]
+  ],
+  "note": "Falkor XP grants ignored; Unknown map rows removed (XP fallback)."
 }
